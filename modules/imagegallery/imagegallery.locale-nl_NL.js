@@ -1,0 +1,1 @@
+jQuery.extend(jQuery.fn.imagegallery.defaults.locale, {"closeText":"Sluiten","counterSeparatorText":"van","defaultTitle":"Naam","fullSizeImage":"Bekijk op volledige grootte","imageText":"Afbeelding","nextText":"Volgende","prevText":"Terug","removeImage":"Verwijderen"});

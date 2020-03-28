@@ -1,0 +1,18 @@
+#view-details {
+	direction: rtl;
+	float: right;
+	margin-left: 115px;
+	margin-right: 0;
+}
+
+#view-close {
+	float: left;
+	padding-left: 25px;
+	padding-right: 0;
+	text-align: left;
+	background: url(images/view-close.png) left center no-repeat;
+}
+
+#view-tools {
+	float: left;
+}
