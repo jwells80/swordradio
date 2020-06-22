@@ -1,1 +1,0 @@
-jQuery.extend(jQuery.fn.imagegallery.defaults.locale, {"closeText":"Zamknij","counterSeparatorText":"z","defaultTitle":"Nazwa","fullSizeImage":"Poka\u017c pe\u0142ny ekran","imageText":"Obraz","nextText":"Nast\u0119pny","prevText":"Poprzedni","removeImage":"Usu\u0144"});

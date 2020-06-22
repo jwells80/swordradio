@@ -1,1 +1,0 @@
-jQuery.extend(jQuery.fn.imagegallery.defaults.locale, {"closeText":"Fermer","counterSeparatorText":"De","defaultTitle":"Nom","fullSizeImage":"Voir en taille r\u00e9elle","imageText":"Image","nextText":"Suivant","prevText":"Pr\u00e9c\u00e9dent","removeImage":"Supprimer"});

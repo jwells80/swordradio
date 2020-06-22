@@ -1,0 +1,24 @@
+baseURL = "https://condescending-lamport-de6648.netlify.com/"
+languageCode = "en-us"
+title = "Sword Radio"
+theme = "mytheme"
+disqusShortname = "swordradio"
+paginate = 9
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
+
+    [[menu.main]]
+    name = "Podcasts"
+    url = "/podcasts/"
+    weight = -100
+
+[params]
+    featured_image = "/images/header.jpg"
+    ShowDatesOnPosts = false
